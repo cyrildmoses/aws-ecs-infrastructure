@@ -1,4 +1,4 @@
-# ecs-cluster-iac
+# aws-ecs-infrastructure
 
 This repository provides Infrastructure as Code (IaC) templates for deploying an Amazon ECS cluster along with its associated IAM roles and security groups. Utilizing Terraform, this setup ensures a secure and scalable environment for containerized applications. Key features include:
 
