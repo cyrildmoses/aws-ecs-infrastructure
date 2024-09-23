@@ -3,7 +3,7 @@
 variable "app_name" {
   type        = string
   description = "Applciation Name"
-  default     = "demo"
+  default     = "aws"
 }
 
 variable "region" {
